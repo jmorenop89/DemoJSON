@@ -7,7 +7,7 @@
         { "id" : 5, "nombre" : "ESPERANZA 01" },
         { "id" : 6, "nombre" : "ESPERANZA 02" }
     ],
-    "modulo" : [
+    "modulos" : [
         { "id" : 1, "nombre" : "H", "idPadre" : 1 },
         { "id" : 2, "nombre" : "I", "idPadre" : 1 },
         { "id" : 3, "nombre" : "J", "idPadre" : 1 },
