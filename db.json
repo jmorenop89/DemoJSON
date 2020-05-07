@@ -1,0 +1,26 @@
+{
+    "fundos" : [
+        { "id" : 1, "nombre" : "ARMONIA 01" },
+        { "id" : 2, "nombre" : "ARMONIA 02" },
+        { "id" : 3, "nombre" : "ARMONIA 03" },
+        { "id" : 4, "nombre" : "EL TUMI" },
+        { "id" : 5, "nombre" : "ESPERANZA 01" },
+        { "id" : 6, "nombre" : "ESPERANZA 02" }
+    ],
+    "modulo" : [
+        { "id" : 1, "nombre" : "H", "idPadre" : 1 },
+        { "id" : 2, "nombre" : "I", "idPadre" : 1 },
+        { "id" : 3, "nombre" : "J", "idPadre" : 1 },
+        { "id" : 4, "nombre" : "K", "idPadre" : 1 },
+        { "id" : 5, "nombre" : "E", "idPadre" : 2 },
+        { "id" : 6, "nombre" : "F", "idPadre" : 2 },
+        { "id" : 7, "nombre" : "G", "idPadre" : 2 },
+        { "id" : 8, "nombre" : "A", "idPadre" : 3 },
+        { "id" : 9, "nombre" : "B", "idPadre" : 3 },
+        { "id" : 10, "nombre" : "C", "idPadre" : 3 },
+        { "id" : 11, "nombre" : "D", "idPadre" : 4 },
+        { "id" : 12, "nombre" : "L", "idPadre" : 4 },
+        { "id" : 13, "nombre" : "AA", "idPadre" : 5 },
+        { "id" : 14, "nombre" : "BB", "idPadre" : 6 }
+    ]
+}
